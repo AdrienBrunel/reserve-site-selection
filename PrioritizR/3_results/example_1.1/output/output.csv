@@ -1,0 +1,12 @@
+PlanningUnits,756
+MinCost,1.0
+MaxCost,10.7
+NbFeatures,3
+Objective,197.7
+Type,minset
+BLM,1.0
+MinTarget,36.0
+MaxTarget,191.8
+LockedOut,18
+LockedIn,0
+

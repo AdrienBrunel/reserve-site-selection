@@ -1,0 +1,8 @@
+root.dir,/home/adrien/MEGA/DST/PrioritizR
+folder,example_tmp
+spec.nb,3
+BLM,1
+locked.out,309,346,347,348,384,385,421,422,456,457,458,492,493,494,527,528,529,530
+locked.in,
+cost.type,cost3
+optim.type,minset
