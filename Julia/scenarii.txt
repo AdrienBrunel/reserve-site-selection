@@ -1,0 +1,5 @@
+example_1.1, 3CFs, cost=1, BLM=0, 50%, minset
+example_1.2, 3CFs, cost=1, BLM=1, 50%,minset
+example_1.3, 3CFs, cost=1+ln(1+FC), BLM=0, 50%, minset
+example_1.4, 3CFs, cost=1+ln(1+FC), BLM=1, 50%, minset
+
